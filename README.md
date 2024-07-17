@@ -48,7 +48,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/pycharm-2C2C32.svg?style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
