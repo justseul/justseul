@@ -62,11 +62,20 @@
   </a>
 </div>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<br>
+
+<h3 align="center">🐈‍⬛ My Github Stats 🐈‍⬛</h3>
 <div align="center">
   
   ![SEUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=justseul&show_icons=true)
   
+</div>
+
+<h3 align="center">👩‍💻 My BAEKJOON Online Judge 👩‍💻</h3>
+<div align="center">
+  
+  [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=justoneseul)](https://solved.ac/justoneseul/)
+
 </div>
 
 
