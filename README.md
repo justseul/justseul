@@ -63,7 +63,8 @@
 </div>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-
-  ![SEUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=justseul&show_icons=true)]
+<div align="center">
+  ![SEUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=justseul&show_icons=true)
+</div>
 
 
