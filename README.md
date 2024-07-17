@@ -61,3 +61,8 @@
       src="https://img.shields.io/badge/seeulater1225@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<h3 align="center">📫 Contact 📫</h3>
+  <div align="center">
+  [![SEUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=justseul)](https://github.com/justseul/github-readme-stats)
+  </div>
