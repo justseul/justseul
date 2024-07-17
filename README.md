@@ -62,7 +62,8 @@
   </a>
 </div>
 
-<h3 align="center">📫 Contact 📫</h3>
-  <div align="center">
-  [![SEUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=justseul)](https://github.com/justseul/github-readme-stats)
-  </div>
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+
+  ![SEUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=justseul&show_icons=true)]
+
+
