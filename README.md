@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-F7DF1E.svg?style=for-the-badge&logo=Java&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/C#-E34F26.svg?style=for-the-badge&logo=C&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/C-E34F26.svg?style=for-the-badge&logo=C&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
