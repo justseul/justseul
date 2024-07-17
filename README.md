@@ -11,12 +11,12 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Java-F7DF1E.svg?style=for-the-badge&logo=Java&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/Java-F7DF1E.svg?style=for-the-badge&logo=Java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=ffd35b" />&nbsp
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
 </div>
@@ -27,9 +27,9 @@
 <div align="center">
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Prophet-0467DF?style=for-the-badge&logo=meta&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Mediapipe-74D3E0.svg?style=for-the-badge&logo=google&logoColor=20232a" />&nbsp
+  <img src="https://img.shields.io/badge/Mediapipe-74D3E0.svg?style=for-the-badge&logo=google&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/AutoML-FF4154?style=for-the-badge&logo=AutoML&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/YOLO-20232a.svg?style=for-the-badge&logo=YOLO&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/YOLO-20232a.svg?style=for-the-badge&logo=YOLO&logoColor=white" />&nbsp
 </div>
 
 <br>
@@ -38,17 +38,17 @@
 <div align="center">
   <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-000000.svg?style=for-the-badge&logo=notion&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=37abff" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />&nbsp
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/pycharm-2C2C32.svg?style=for-the-badge&logo=pycharm&logoColor=22ABF3" />&nbsp
-  <img src="https://img.shields.io/badge/jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=F37726" />&nbsp
+  <img src="https://img.shields.io/badge/pycharm-2C2C32.svg?style=for-the-badge&logo=pycharm&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
