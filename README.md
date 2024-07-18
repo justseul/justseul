@@ -76,7 +76,7 @@
 <h3 align="center">👩‍💻 My BAEKJOON Online Judge 👩‍💻</h3>
 <div align="center">
   
-  ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=justoneseul)](https://solved.ac/justoneseul/)
+  ![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=justoneseul)
 
 </div>
 
