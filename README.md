@@ -68,7 +68,6 @@
 <div align="center">
   
   ![SEUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=justseul&show_icons=true)
-<!--   ![SEUL's GitHub stats](https://github-readme-stats.vercel.app/api?username=justseul&show_icons=true) -->
   
 </div>
 
