@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Prophet-0866FF?style=for-the-badge&logo=facebook&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Mediapipe-74D3E0.svg?style=for-the-badge&logo=google&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/AutoML-FF4154?style=for-the-badge&logo=AutoML&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/AutoML-FF4154?style=for-the-badge&logo=sphinx&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/YOLO-20232a.svg?style=for-the-badge&logo=YOLO&logoColor=white" />&nbsp
 </div>
 
