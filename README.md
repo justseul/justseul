@@ -1,7 +1,7 @@
 <!--타이틀 부분-->
-
+<h3 align="center">
+  
 ![venom](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=SEUL%20GITHUB&desc=Wise%20Data%20Scientist&fontColor=&textBg=false)
-
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 
